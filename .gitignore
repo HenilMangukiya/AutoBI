@@ -1,3 +1,14 @@
+# Secrets
+pro-con/.env
 pro-con/credentials.json
-**/.env
 
+# OS junk files
+*.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
