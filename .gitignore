@@ -1,6 +1,7 @@
 # Secrets
 pro-con/.env
 pro-con/credentials.json
+pro-con/snowflake_config.py
 
 # OS junk files
 *.DS_Store
